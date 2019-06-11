@@ -1,0 +1,147 @@
+colors = {
+    'background': ' #050505',
+    'light blue': '#7FDBFF',
+    'red': '#FF0000',
+    'aqua': '#00FFFF',
+    'green': '#008000',
+    'blue': '#0000FF',
+    'white':'#edf4f4',
+    'deep blue':'#4333ff'
+}
+
+
+.logout{
+  width:1000px;
+  height:1000px;
+  background-color:#050505;
+}
+
+.body{
+  width:1000px;
+  height:1000px;
+  background-color:#edf4f4;
+  max-width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+.inline {
+   display: inline-block;
+}
+h1{
+  font-size:22px;
+  background-color: #e6b0aa ;
+  color: blue;
+  text-align: center;
+}
+
+h2{
+  width: 100%;
+  font-size:18px;
+  background-color:#edf4f4;
+  color: #0000FF;
+  text-align: center;
+}
+h3{
+
+  font-size:16px;
+  background-color:#7FDBFF;
+}
+
+h4{
+  font-size:14px;
+  color:red;
+  text-align: center;
+}
+
+h5{
+  font-size:22px;
+  background-color:#7FDBFF;
+}
+
+
+
+h6{
+  width: 100%;
+  font-size:16px;
+  text-align: center;
+}
+.h7{
+  width: 100%;
+  font-size:18px;
+  text-align: center;
+  color:red;
+}
+.h8{
+  width: 100%;
+  font-size:14px;
+  text-align: center;
+  font-style: italic;
+  font-family:monospace;
+}
+
+.h9{
+  width: 100%;
+  font-size:32px;
+  text-align: center;
+  color: #0000FF;
+  text-decoration:line-through;
+  text-align: center;
+}
+
+
+a:link, a:visited {
+  background-color: #7FDBFF;
+  color: blue;
+  width:800px;
+  margin: auto;
+  padding: 0px 0px;
+  text-align: center;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  background-color: #FF7F50;
+}
+
+input[type=text], select {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=password], select {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
+button[type=submit] {
+  width: 50%;
+  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+  padding: 5px 5px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover, button:active {
+  background-color: blue;
+}
+
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
